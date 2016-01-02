@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <title>
+            I'm the title of the page mentioned in layout.
+        </title>
+    </head>
+    <body>
+        <referenceContainer name="content">
+            <block class="Amit\Helloworld\Block\Sample" name="helloworld" template="Amit_Helloworld::helloworld.phtml"/>
+        </referenceContainer>
+    </body>
+</page>
