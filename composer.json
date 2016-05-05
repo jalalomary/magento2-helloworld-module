@@ -1,5 +1,5 @@
 {
-  "name": "shopgo/helloworld-module",
+  "name": "jomary/helloworld-module",
   "description": "Simple Magento 2 module that shows uses of Controller, Block & Template.",
   "type": "magento2-module",
   "version": "1.0.0",
